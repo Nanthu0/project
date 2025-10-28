@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 # project
@@ -81,3 +82,6 @@ export default defineConfig([
 =======
 >>>>>>> 821ba2b (Initial commit)
 >>>>>>> bd84467
+=======
+# project
+>>>>>>> ae30aff879057020ee55705fcffdc35ef89b3e1f
